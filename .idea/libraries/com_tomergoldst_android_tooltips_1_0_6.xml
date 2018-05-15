@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.tomergoldst.android:tooltips-1.0.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tooltips-1.0.6.aar/b22859a09c8ba0b4c19ee55d1e31333c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tooltips-1.0.6.aar/b22859a09c8ba0b4c19ee55d1e31333c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tomergoldst.android/tooltips/1.0.6/544dcde3e9a63b472001915f79677e5c94c19e9e/tooltips-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,313 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.mikepenz:itemanimators:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\itemanimators-1.0.0.aar\eb2c1aebb46d1bf2007ea536b1686e63\AndroidManifest.xml:2:1-12:12
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\287d3c55cd9ecae6b08e945b2c2e573d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\library-2.0.aar\1e58c2bd53d0b341b9741ac19148b6b1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\library-2.3.aar\7d73bc09665f9b091f125ae127169a6c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\shimmer-0.1.0.aar\702792c26c5184b51f9d1f637b2cbc7d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\7874bbfc71e4dbb96559f8b2997c0c2a\AndroidManifest.xml:16:1-19:12
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\4f8a9a5443ee69db0e401640511652e2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ac0e1080881c9bd9eadbd5ea3ae1b684\AndroidManifest.xml:17:1-28:12
+MERGED from [com.tomergoldst.android:tooltips:1.0.6] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\tooltips-1.0.6.aar\b22859a09c8ba0b4c19ee55d1e31333c\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\98134ce1cfb079cb6b507d866e4115d1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\42e8afcf933941f9b5f6973f409bf150\AndroidManifest.xml:17:1-28:12
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.1.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.1.3.aar\7a655975ba5b0ed1a7af578491bd17e2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ec58b76d7501697b02330108a16dcbd6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57279b89650287c066c8a7e6f3f5831a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\209dc966f6baa19aac23312eb8b51278\AndroidManifest.xml:17:1-28:12
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\5b595eb0591495b77375f925fc260a4f\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ac203092f50e748f08d4eab527a27452\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\a6f02d747638c0a8773a821f0d11842b\AndroidManifest.xml:2:1-7:12
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\c582bb98f7992a8112401f1e05d80375\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e13ad5d83aa196062ab7d69be2af95d3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\df08f25e18d83537be251f59a61e08e0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1c5106ecbdd9c980616842f186090c31\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7eb5ea36d1109e376f060f94e46b696d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0869c5b90d67fd37a08535deefe6a7bd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fee045e3fd5c68defedbfc12316aaf56\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c4a3374d45f062dea7fe3f9749bce984\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\08c36f9e01313995cb39be0c917a4477\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\82c43ed0314f79607f04e9988b2429c3\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:10:5-43:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ac0e1080881c9bd9eadbd5ea3ae1b684\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ac0e1080881c9bd9eadbd5ea3ae1b684\AndroidManifest.xml:22:5-26:19
+MERGED from [com.tomergoldst.android:tooltips:1.0.6] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\tooltips-1.0.6.aar\b22859a09c8ba0b4c19ee55d1e31333c\AndroidManifest.xml:12:5-20
+MERGED from [com.tomergoldst.android:tooltips:1.0.6] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\tooltips-1.0.6.aar\b22859a09c8ba0b4c19ee55d1e31333c\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\98134ce1cfb079cb6b507d866e4115d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\98134ce1cfb079cb6b507d866e4115d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\42e8afcf933941f9b5f6973f409bf150\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\42e8afcf933941f9b5f6973f409bf150\AndroidManifest.xml:22:5-26:19
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.1.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.1.3.aar\7a655975ba5b0ed1a7af578491bd17e2\AndroidManifest.xml:11:5-12:19
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.1.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.1.3.aar\7a655975ba5b0ed1a7af578491bd17e2\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ec58b76d7501697b02330108a16dcbd6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ec58b76d7501697b02330108a16dcbd6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57279b89650287c066c8a7e6f3f5831a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57279b89650287c066c8a7e6f3f5831a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\209dc966f6baa19aac23312eb8b51278\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\209dc966f6baa19aac23312eb8b51278\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ac203092f50e748f08d4eab527a27452\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ac203092f50e748f08d4eab527a27452\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e13ad5d83aa196062ab7d69be2af95d3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e13ad5d83aa196062ab7d69be2af95d3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\df08f25e18d83537be251f59a61e08e0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\df08f25e18d83537be251f59a61e08e0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1c5106ecbdd9c980616842f186090c31\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1c5106ecbdd9c980616842f186090c31\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7eb5ea36d1109e376f060f94e46b696d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7eb5ea36d1109e376f060f94e46b696d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0869c5b90d67fd37a08535deefe6a7bd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0869c5b90d67fd37a08535deefe6a7bd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fee045e3fd5c68defedbfc12316aaf56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fee045e3fd5c68defedbfc12316aaf56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c4a3374d45f062dea7fe3f9749bce984\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c4a3374d45f062dea7fe3f9749bce984\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\08c36f9e01313995cb39be0c917a4477\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\08c36f9e01313995cb39be0c917a4477\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\82c43ed0314f79607f04e9988b2429c3\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\82c43ed0314f79607f04e9988b2429c3\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.utkarsh.hackdunhacked.MainActivity
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.utkarsh.hackdunhacked.Main3Activity
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.example.utkarsh.hackdunhacked.Main4Activity
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:25:19-48
+activity#com.example.utkarsh.hackdunhacked.Main5Activity
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:26:19-48
+activity#com.example.utkarsh.hackdunhacked.Main2Activity
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.example.utkarsh.hackdunhacked.Mech
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:28:9-42
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:28:19-39
+activity#com.example.utkarsh.hackdunhacked.depl
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:29:9-42
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:29:19-39
+activity#com.example.utkarsh.hackdunhacked.transport
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:30:9-47
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:30:19-44
+activity#com.example.utkarsh.hackdunhacked.rainfall
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:31:9-46
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:31:19-43
+activity#com.example.utkarsh.hackdunhacked.aware
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:32:9-43
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:32:19-40
+activity#com.example.utkarsh.hackdunhacked.access
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:33:9-44
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:33:19-41
+activity#com.example.utkarsh.hackdunhacked.enviro
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:34:9-44
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:34:19-41
+activity#com.example.utkarsh.hackdunhacked.tobacco
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:35:9-45
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:35:19-42
+activity#com.example.utkarsh.hackdunhacked.lack
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:36:9-42
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:36:19-39
+activity#com.example.utkarsh.hackdunhacked.underpayment
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:37:9-50
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:37:19-47
+activity#com.example.utkarsh.hackdunhacked.job
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:38:9-41
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:38:19-38
+activity#com.example.utkarsh.hackdunhacked.immobi
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:39:9-44
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:39:19-41
+activity#com.example.utkarsh.hackdunhacked.stress
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:40:9-44
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:40:19-41
+activity#com.example.utkarsh.hackdunhacked.gender
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:41:9-44
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:41:19-41
+activity#com.example.utkarsh.hackdunhacked.CURRICULUM
+ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:42:9-48
+	android:name
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml:42:19-45
+uses-sdk
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+MERGED from [com.mikepenz:itemanimators:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\itemanimators-1.0.0.aar\eb2c1aebb46d1bf2007ea536b1686e63\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:itemanimators:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\itemanimators-1.0.0.aar\eb2c1aebb46d1bf2007ea536b1686e63\AndroidManifest.xml:8:5-10:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\287d3c55cd9ecae6b08e945b2c2e573d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\287d3c55cd9ecae6b08e945b2c2e573d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\library-2.0.aar\1e58c2bd53d0b341b9741ac19148b6b1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\library-2.0.aar\1e58c2bd53d0b341b9741ac19148b6b1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\library-2.3.aar\7d73bc09665f9b091f125ae127169a6c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\library-2.3.aar\7d73bc09665f9b091f125ae127169a6c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\shimmer-0.1.0.aar\702792c26c5184b51f9d1f637b2cbc7d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\shimmer-0.1.0.aar\702792c26c5184b51f9d1f637b2cbc7d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\7874bbfc71e4dbb96559f8b2997c0c2a\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\7874bbfc71e4dbb96559f8b2997c0c2a\AndroidManifest.xml:18:5-42
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\4f8a9a5443ee69db0e401640511652e2\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\4f8a9a5443ee69db0e401640511652e2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ac0e1080881c9bd9eadbd5ea3ae1b684\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ac0e1080881c9bd9eadbd5ea3ae1b684\AndroidManifest.xml:20:5-44
+MERGED from [com.tomergoldst.android:tooltips:1.0.6] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\tooltips-1.0.6.aar\b22859a09c8ba0b4c19ee55d1e31333c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.tomergoldst.android:tooltips:1.0.6] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\tooltips-1.0.6.aar\b22859a09c8ba0b4c19ee55d1e31333c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\98134ce1cfb079cb6b507d866e4115d1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\98134ce1cfb079cb6b507d866e4115d1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\42e8afcf933941f9b5f6973f409bf150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\42e8afcf933941f9b5f6973f409bf150\AndroidManifest.xml:20:5-44
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.1.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.1.3.aar\7a655975ba5b0ed1a7af578491bd17e2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.1.3] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\sectionedrecyclerviewadapter-1.1.3.aar\7a655975ba5b0ed1a7af578491bd17e2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ec58b76d7501697b02330108a16dcbd6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ec58b76d7501697b02330108a16dcbd6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57279b89650287c066c8a7e6f3f5831a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57279b89650287c066c8a7e6f3f5831a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\209dc966f6baa19aac23312eb8b51278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\209dc966f6baa19aac23312eb8b51278\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\5b595eb0591495b77375f925fc260a4f\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\5b595eb0591495b77375f925fc260a4f\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ac203092f50e748f08d4eab527a27452\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ac203092f50e748f08d4eab527a27452\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\a6f02d747638c0a8773a821f0d11842b\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\a6f02d747638c0a8773a821f0d11842b\AndroidManifest.xml:5:5-43
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\c582bb98f7992a8112401f1e05d80375\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\c582bb98f7992a8112401f1e05d80375\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e13ad5d83aa196062ab7d69be2af95d3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e13ad5d83aa196062ab7d69be2af95d3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\df08f25e18d83537be251f59a61e08e0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\df08f25e18d83537be251f59a61e08e0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1c5106ecbdd9c980616842f186090c31\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1c5106ecbdd9c980616842f186090c31\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7eb5ea36d1109e376f060f94e46b696d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7eb5ea36d1109e376f060f94e46b696d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0869c5b90d67fd37a08535deefe6a7bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0869c5b90d67fd37a08535deefe6a7bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fee045e3fd5c68defedbfc12316aaf56\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fee045e3fd5c68defedbfc12316aaf56\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c4a3374d45f062dea7fe3f9749bce984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c4a3374d45f062dea7fe3f9749bce984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\08c36f9e01313995cb39be0c917a4477\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\08c36f9e01313995cb39be0c917a4477\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\82c43ed0314f79607f04e9988b2429c3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\82c43ed0314f79607f04e9988b2429c3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\98134ce1cfb079cb6b507d866e4115d1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh\Downloads\ECellApp2k17-master\hackDUnhacked\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ac0e1080881c9bd9eadbd5ea3ae1b684\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\98134ce1cfb079cb6b507d866e4115d1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\98134ce1cfb079cb6b507d866e4115d1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\42e8afcf933941f9b5f6973f409bf150\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\42e8afcf933941f9b5f6973f409bf150\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ec58b76d7501697b02330108a16dcbd6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ec58b76d7501697b02330108a16dcbd6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57279b89650287c066c8a7e6f3f5831a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57279b89650287c066c8a7e6f3f5831a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\209dc966f6baa19aac23312eb8b51278\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\209dc966f6baa19aac23312eb8b51278\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e13ad5d83aa196062ab7d69be2af95d3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e13ad5d83aa196062ab7d69be2af95d3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\df08f25e18d83537be251f59a61e08e0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\df08f25e18d83537be251f59a61e08e0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1c5106ecbdd9c980616842f186090c31\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1c5106ecbdd9c980616842f186090c31\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7eb5ea36d1109e376f060f94e46b696d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7eb5ea36d1109e376f060f94e46b696d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0869c5b90d67fd37a08535deefe6a7bd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0869c5b90d67fd37a08535deefe6a7bd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fee045e3fd5c68defedbfc12316aaf56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fee045e3fd5c68defedbfc12316aaf56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c4a3374d45f062dea7fe3f9749bce984\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c4a3374d45f062dea7fe3f9749bce984\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\08c36f9e01313995cb39be0c917a4477\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\08c36f9e01313995cb39be0c917a4477\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ac0e1080881c9bd9eadbd5ea3ae1b684\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ac0e1080881c9bd9eadbd5ea3ae1b684\AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\82c43ed0314f79607f04e9988b2429c3\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\82c43ed0314f79607f04e9988b2429c3\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Utkarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\82c43ed0314f79607f04e9988b2429c3\AndroidManifest.xml:26:13-58
